@@ -10,7 +10,7 @@ A growing collection for [nightTab](https://github.com/zombieFox/nightTab), an e
 
 - [Night Tab - A collection](#night-tab---a-collection)
 - [How-to](#how-to)
-- [Tabs](#tabs)
+- [Themes](#themes)
   - [Main](#main)
     - [1. Aesthetic Night](#1-aesthetic-night)
     - [2. Catppuccin](#2-catppuccin)
@@ -43,7 +43,7 @@ A growing collection for [nightTab](https://github.com/zombieFox/nightTab), an e
 > [!NOTE]
 > If you're new to GitHub click on the green button saying **code** and click on _Download ZIP_
 
-# Tabs
+# Themes
 
 ## Main
 
