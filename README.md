@@ -115,11 +115,12 @@ The collection is released under the [GPL-3.0 License](https://opensource.org/li
 
 # Credits
 
-The [other](#other) themes are forked from [laggy-tux](https://github.com/laggy-tux/NightTab-Collection)
+The [laggy-tux](#laggy-tux) themes are forked from [laggy-tux](https://github.com/laggy-tux/NightTab-Collection)'s collection
 
 &nbsp;
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
-    <i>happy theming!</i>
+	<br>
+	<i>happy theming!</i>
 </p>
