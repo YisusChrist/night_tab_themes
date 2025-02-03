@@ -85,6 +85,12 @@ _created by [u/Cultural-Duck-6766](https://www.reddit.com/r/nighttab/comments/18
 
 ![Hollow Night](assets/hollow-night.png)
 
+### 8. Ghost of Tsushima
+
+_created by [mintRaven-05](https://www.github.com/mintRaven-05)_
+
+![Ghost of Tsushima](assets/ghost-of-tsushima.png)
+
 ## laggy-tux
 
 ### 1. Wabes
