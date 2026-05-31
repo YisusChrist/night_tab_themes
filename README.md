@@ -19,6 +19,11 @@ A growing collection for [nightTab](https://github.com/zombieFox/nightTab), an e
     - [5. Minimal Forest](#5-minimal-forest)
     - [6. Walker](#6-walker)
     - [7. Hollow Night](#7-hollow-night)
+    - [8. Ghost of Tsushima](#8-ghost-of-tsushima)
+    - [9. Nice collection](#9-nice-collection)
+    - [10. Cute and animated](#10-cute-and-animated)
+    - [11. Stars](#11-stars)
+    - [12. Abstract Dark Green](#12-abstract-dark-green)
   - [laggy-tux](#laggy-tux)
     - [1. Wabes](#1-wabes)
     - [2. Wabes-2](#2-wabes-2)
@@ -90,6 +95,38 @@ _created by [u/Cultural-Duck-6766](https://www.reddit.com/r/nighttab/comments/18
 _created by [mintRaven-05](https://www.github.com/mintRaven-05)_
 
 ![Ghost of Tsushima](assets/ghost-of-tsushima.png)
+
+### 9. Nice collection
+
+_created by [u/Est495](https://www.reddit.com/r/nighttab/comments/rp61ku/collection_of_all_my_setups/)_
+
+![yRetro](assets/yRetro.png)
+
+![yRing](assets/yRing.png)
+
+![yPictures](assets/yPictures.png)
+
+![yPunk](assets/yPunk.png)
+
+![yMountn](assets/yMountn.png)
+
+### 10. Cute and animated
+
+_created by [u/SEN_pai7474](https://www.reddit.com/r/nighttab/comments/131skbh/my_first_nighttab_setup/)_
+
+![Cute and animated](assets/cute-and-animated.gif)
+
+### 11. Stars
+
+_created by [u/Ineededanaccountlol2](https://www.reddit.com/r/nighttab/comments/1d6xomw/stars/)_
+
+![Stars](assets/stars.gif)
+
+### 12. Abstract Dark Green
+
+_created by [u/Lumi0ff](https://www.reddit.com/r/nighttab/comments/137iagg/my_nighttab_homepage_thanks_to_usen_pai7474_for/)_
+
+![Abstract Dark Green](assets/abstract-dark-green.gif)
 
 ## laggy-tux
 
