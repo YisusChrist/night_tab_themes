@@ -24,6 +24,18 @@ A growing collection for [nightTab](https://github.com/zombieFox/nightTab), an e
     - [10. Cute and animated](#10-cute-and-animated)
     - [11. Stars](#11-stars)
     - [12. Abstract Dark Green](#12-abstract-dark-green)
+    - [13. Frieren](#13-frieren)
+    - [14. Stefblue](#14-stefblue)
+    - [15. Plants](#15-plants)
+    - [16. Space Stuff](#16-space-stuff)
+    - [17. Darkish Purple](#17-darkish-purple)
+    - [18. Nord](#18-nord)
+    - [19. Cookie Fox](#19-cookie-fox)
+    - [20. Mono Type](#20-mono-type)
+    - [21. Cool Blue](#21-cool-blue)
+    - [22. Colorful Sky](#22-colorful-sky)
+    - [23. Umbra](#23-umbra)
+    - [24. Minimal Lofi](#24-minimal-lofi)
   - [laggy-tux](#laggy-tux)
     - [1. Wabes](#1-wabes)
     - [2. Wabes-2](#2-wabes-2)
@@ -127,6 +139,78 @@ _created by [u/Ineededanaccountlol2](https://www.reddit.com/r/nighttab/comments/
 _created by [u/Lumi0ff](https://www.reddit.com/r/nighttab/comments/137iagg/my_nighttab_homepage_thanks_to_usen_pai7474_for/)_
 
 ![Abstract Dark Green](assets/abstract-dark-green.gif)
+
+### 13. Frieren
+
+_created by [u/Old-Jackfruit-1479](https://www.reddit.com/r/nighttab/comments/1ipux0w/first_theme_in_like_5_minutes_how_is_it/)_
+
+![Frieren](assets/frieren.png)
+
+### 14. Stefblue
+
+_created by [u/stef7EAmis](https://www.reddit.com/r/nighttab/comments/sia94u/this_is_my_blue_theme_i_modified_the_tried/)_
+
+![Stefblue](assets/stefblue.png)
+
+### 15. Plants
+
+_created by [u/yozyk](https://www.reddit.com/r/nighttab/comments/sjrl8f/here_we_go_again/)_
+
+![Plants](assets/plants.png)
+
+### 16. Space Stuff
+
+_created by [u/hotlavapotato](https://www.reddit.com/r/nighttab/comments/r75cqm/space_stuff/)_
+
+![Space Stuff](assets/space-stuff.png)
+
+### 17. Darkish Purple
+
+_created by [u/random-eldritch](https://www.reddit.com/r/nighttab/comments/xdaafs/just_a_recolour/)_
+
+![Darkish Purple](assets/darkish-purple.png)
+
+### 18. Nord
+
+_created by [u/random-eldritch](https://www.reddit.com/r/nighttab/comments/x2dacz/all_nord_theme_d/)_
+
+![Nord](assets/nord.png)
+
+### 19. Cookie Fox
+
+_created by [u/random-eldritch](https://www.reddit.com/r/nighttab/comments/xuchsk/cookie_fox/)_
+
+![Cookie Fox](assets/cookie-fox.png)
+
+### 20. Mono Type
+
+_created by [u/random-eldritch](https://www.reddit.com/r/nighttab/comments/10dcyuj/its_been_a_while_since_ive_changed_my_nighttab/)_
+
+![Mono Type](assets/mono-type.png)
+
+### 21. Cool Blue
+
+_created by [u/random-eldritch](https://www.reddit.com/r/nighttab/comments/z4ijhl/havent_made_a_new_setup_in_a_while_i_got_into_web/)_
+
+![Cool Blue](assets/cool-blue.png)
+
+### 22. Colorful Sky
+
+_created by [u/random-eldritch](https://www.reddit.com/r/nighttab/comments/ydzvw8/was_trying_out_the_random_backgrounds_and_i_was/)_
+
+![Colorful Sky](assets/colorful-sky.png)
+
+### 23. Umbra
+
+_created by [u/Avnes_](https://www.reddit.com/r/nighttab/comments/1gltao7/finally_got_my_umbra_setup_share_worthy/)_
+
+![Umbra](assets/umbra.png)
+
+### 24. Minimal Lofi
+
+_created by [u/\_1Zen_](https://www.reddit.com/r/nighttab/comments/17adybj/minimal/)_
+
+![Minimal Lofi](assets/minimal-lofi.gif)
 
 ## laggy-tux
 
